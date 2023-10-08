@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Tatiane Teixeira Pinto
+- 👋 Olá, meu nome é Tatiane T. Pinto
 - 👀 Sou professora da escola Therezinha Rodrigues
 - 🌱 Leciono os componentes curriculares de Química, Orientação de Estudos, Eletiva, Tecnologia e Inovação e Aprofundamento curricular
 - 💞️ Estou realizalindo o curso de Programação Alura oferecido pelo estado de SP
