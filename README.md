@@ -1,6 +1,5 @@
 - 👋 Olá, meu nome é Tatiane T. Pinto
-- 👀 Sou professora da escola Therezinha Rodrigues
-- 🌱 Leciono os componentes curriculares de Química, Orientação de Estudos, Eletiva, Tecnologia e Inovação e Aprofundamento curricular
+- 👀 Sou professora dos componentes curriculares de Química, Física, Biotecnologia, Tecnologia e Práticas Experimentais
 - 💞️ Estou realizalindo o curso de Programação Alura oferecido pelo estado de SP
 - 📫 O Pensamento computacional é uma área bem interessante 
 
